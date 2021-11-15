@@ -1,0 +1,29 @@
+$color-green: #59c371;
+$color-red: #db5752;
+$color-light: #9ac9fb;
+// :export {
+//   green: $color-green;
+//   red: $color-red;
+// }
+.button-options {
+  color: #fafafa !important;
+}
+.background-red {
+  background-color: $color-red !important;
+}
+.background-green {
+  background-color: $color-green !important;
+}
+.background-light {
+  background-color: $color-light !important;
+}
+.p-4 {
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+}
+a {
+  text-decoration: none;
+}
+.link-btn {
+  padding: 1em !important;
+}

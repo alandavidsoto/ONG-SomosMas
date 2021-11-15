@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "aracned";
+  src: url("../../fonts/mainFonts/Aracne_condensed/ARACNE-CONDENSED_regular.ttf");
+}
+@font-face {
+  font-family: "anton";
+  src: url("../../fonts/mainFonts/Anton/Anton-Regular.ttf");
+}
+@font-face {
+  font-family: "work-sans";
+  src: url("../../fonts/mainFonts/Poppins/Poppins-Regular.ttf");
+}
+
+h1,h2,h3 {
+  font-family: "aracned" !important;
+}
+

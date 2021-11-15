@@ -1,0 +1,23 @@
+.itemContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  max-width: 400px;
+  max-height: 500px;
+  margin: 20px;
+
+  .nameTypography {
+    font-family: "anton";
+    font-size: 25px;
+  }
+
+  .imageItem {
+    width: 100%;
+    height: 100%;
+    max-width: 300px;
+    max-height: 250px;
+  }
+}
