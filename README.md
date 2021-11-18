@@ -1,3 +1,4 @@
+<div style="display: flex;flex-wrap: wrap;">
 <img src="https://cdn.loom.com/images/originals/e067d531174048a3b5860d4e255f5383.jpg?Expires=1637353629&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4ubG9vbS5jb20vaW1hZ2VzL29yaWdpbmFscy9lMDY3ZDUzMTE3NDA0OGEzYjU4NjBkNGUyNTVmNTM4My5qcGciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MzczNTM2Mjl9fX1dfQ__&Signature=Kuh03WL22W5WroPiwgNPfRZefxqeIfLRZxDWfFMWNBddhRo~6l9S0qSvGmvxhiZKUMhgWew13bbM3SC6D4LZq~A5dQqosEiOf76pKX5BjyPOi6F~FDFuaQltG~6Zpm2x1FykRcutAyeI4oWPB-HSxd8BIiJpmYcck6C8sJcHvmE~MfHwrvglYo6d72uhDRXjZWWJHnaqSAukkIKSQghhvpZL1gZmAfqgIqyyUzipIm5A~-ZUQLyKA7I89~T3MQZ72RF0RyUKb2ysrJEOuv6Qnazaa-wtP8Lzm~Wcgn~7psuW1vSDK08t6ukEGOveofV0As0NovdKEUyP6EJWU1JpEQ__&Key-Pair-Id=APKAJQIC5BGSW7XXK7FQ"  width="450" />
 
 <img src="https://cdn.loom.com/images/originals/4497f35a1bb141ada0c0a1297e466903.jpg?Expires=1637354597&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4ubG9vbS5jb20vaW1hZ2VzL29yaWdpbmFscy80NDk3ZjM1YTFiYjE0MWFkYTBjMGExMjk3ZTQ2NjkwMy5qcGciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MzczNTQ1OTd9fX1dfQ__&Signature=YMPmRcBBoA2tkAbrnxBsfae5Nt3ZkRe7UdxyfrgbzRMH82Zx0I1Q3dv~Iuior6GXa1z2T6PXSJPPfuIT-qIcz-AkvBLfr5VOPkJEFSYW16m2vWutFtFbNyEVtkfK3JqXJmRvYTLjd0Hm1iSAIzwrkqOV2w49lqRvSOA8ZX24XVR1NimacowB0iMpu4vKb~xo0HO~xEPuWYm7E3NeLvLHG1bWePuSVTBE3DK0H4L7RH3eJZQc8BtCWe7rsUI1b81T5mSCygHveugQWW-ZBTfXSrMkU~ulIdgNwKmHv-riPb5JrKFfegRUiyVUPYiCSXHxHXIzq5TQcs88~rujfHEJFQ__&Key-Pair-Id=APKAJQIC5BGSW7XXK7FQ" width="450"/>
@@ -9,6 +10,7 @@
 <img src="https://cdn.loom.com/images/originals/e79391b7b3244cf3be0874f487cea6ba.jpg?Expires=1637354944&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4ubG9vbS5jb20vaW1hZ2VzL29yaWdpbmFscy9lNzkzOTFiN2IzMjQ0Y2YzYmUwODc0ZjQ4N2NlYTZiYS5qcGciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MzczNTQ5NDR9fX1dfQ__&Signature=TZhGqFJFC5YSNn-p8NVT6pZKOsEu3MLi-qVwmnkaNZ6SF~KwC0yH98QE~w1w0jB8XTmrTwxcwpuFkG~V7gQsfm7fBrCqzHdE~-zN3BoQsHOzbI-78o1~5X12FbB2eLjhfeNj9BRgkzTJGjxlrrPqAAuTQu7aTSvPOvDzlUDTwPffxMIhkm3fdguhHkIu6Qoe3a~pu92B2jAjUURsgfMcQllfn92HS3STl4k-atDb6H7We8OER7tzWPknP0JCG82aSvyj20sgXCAqGtESnVp70JceaWCVV-h1xx0ECjPBSIQf10EKOd~vv5iGD25b-Ti-BZHrT9uA1x0ztsHsCvUe0Q__&Key-Pair-Id=APKAJQIC5BGSW7XXK7FQ" width="450"/>
 
 <img src="https://cdn.loom.com/images/originals/666fdd1530d749b89f4f2280e39d30af.jpg?Expires=1637354966&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4ubG9vbS5jb20vaW1hZ2VzL29yaWdpbmFscy82NjZmZGQxNTMwZDc0OWI4OWY0ZjIyODBlMzlkMzBhZi5qcGciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MzczNTQ5NjZ9fX1dfQ__&Signature=nhRcG48Uf2KjYbOQRbwF7X5xHo-nUucQZ~jLsa3Y1MdbP-6MbDncvPQWhjHxGCtQxkdX2RxqIujH9EFZv-F6qR9651I8TfYDgM1o5lKz2B2EXjH8-dkf4eWysRHMVE-OAe5L1yiZI0lEbmRKUuyzI4H7yITuo-MFfR7r8tuN72DaJqcYfntRSqdmVGSqTrYU6OHmxOuFEMeGJrKOWgo3aEmdcR1Xs0Qz1jSdyFnrCJ7gdGIugYiuzFM3VolVMaHvlPn87DJMNdOS5k2Rm~zTw9spPcV6xpPC3Tk1ufMP~T~-xNtJHBB090O2MD2xqfSCuUJRmP-CIm4n6Q0-eXfU4g__&Key-Pair-Id=APKAJQIC5BGSW7XXK7FQ" width="450"/>
+</div>
 
 
 # Ong Client
@@ -16,9 +18,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## how to run this application 
- *Download or clone this repository in your computer
- *Open your Terminal
- *Write the following Available Scripts
+ *Download or clone this repository in your computer.
+ *Open your Terminal.
+ *Write the following Available Scripts.
 
 ## Available Scripts
 
